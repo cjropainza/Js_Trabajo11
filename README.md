@@ -12,3 +12,6 @@
 # se crear el progrmama numero 5
 # Se crean los link en el archivo index para cada js 
 # Se crea la carpeta html y se registra el programa 1 
+# se eliminan la carpeta html debido a que no es necesario
+# Se crea los espacios de los archivos js para que los compañeros puedan subir sus codigo
+# se sube asta los codigos numero 10 
