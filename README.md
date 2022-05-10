@@ -19,3 +19,4 @@
 # se enlaza cada js con su respectivo html 
 # se dejan los js del numero 10 al 20 para que mis compañeros puedan subir sus ejericicios
 # se prueba el buen funcionamiento de las paginas hasta la numero 10
+# agrego los codigos desde el punto 11 hasta el punto 14
