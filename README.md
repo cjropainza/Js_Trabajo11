@@ -15,3 +15,7 @@
 # se eliminan la carpeta html debido a que no es necesario
 # Se crea los espacios de los archivos js para que los compañeros puedan subir sus codigo
 # se sube asta los codigos numero 10 
+# se vuelve a crear la carpeta de html para tener todas las paginas agrupadas
+# se enlaza cada js con su respectivo html 
+# se dejan los js del numero 10 al 20 para que mis compañeros puedan subir sus ejericicios
+# se prueba el buen funcionamiento de las paginas hasta la numero 10
