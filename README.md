@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tírabajos Jaca Constructores
 
 _Se realizan trabajos de java 20 Ejercicios en parejas utilizando el lenguaje javascript
