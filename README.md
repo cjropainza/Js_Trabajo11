@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Tírabajos Jaca Constructores
+# Tarea 11
 
 _Se realizan trabajos de java 20 Ejercicios en parejas utilizando el lenguaje javascript
 , implicando clases y objetos con un total de 20 ejercicios
@@ -46,3 +45,12 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [VisualStudioCode](https://code.visualstudio.com/) - El software usado
 * [GitBash](https://git-scm.com/downloads) - Manejado para subir proyecto de forma remota
 * [GitLab](https://gitlab.com/) - Usado para subir proyecto
+
+
+
+## Autores ✒️
+
+
+* **Camilo Zuluaga** - *Java Programacion* - 
+* **Camilo Salazar** - *Java Programacion* - 
+* **Claudio Ropain** - *Java Programacion* - 
