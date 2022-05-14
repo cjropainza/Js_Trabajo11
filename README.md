@@ -1,21 +1,56 @@
-# Js_Trabajo11
-# Se crea el archivo index 
-# Se agrega el cuerpo del html
-# Se crea la carpeta JS
-# Se crea el primer programa js 
-# Se crean los primero 10 ejercicios vacios de js 
-# Se crea el segundo codigo en el archivo 2.js
-# Se agrega el primer scrip en el index 
-# Se Crea el 3 progrmama en el archivo 3.js
-# Se Crea el 4 progrmama en el archivo 4.js
-# Se modifica el README para que se vea mas organizado
-# se crear el progrmama numero 5
-# Se crean los link en el archivo index para cada js 
-# Se crea la carpeta html y se registra el programa 1 
-# se eliminan la carpeta html debido a que no es necesario
-# Se crea los espacios de los archivos js para que los compañeros puedan subir sus codigo
-# se sube asta los codigos numero 10 
-# se vuelve a crear la carpeta de html para tener todas las paginas agrupadas
-# se enlaza cada js con su respectivo html 
-# se dejan los js del numero 10 al 20 para que mis compañeros puedan subir sus ejericicios
-# se prueba el buen funcionamiento de las paginas hasta la numero 10
+# Tírabajos Jaca Constructores
+
+_Se realizan trabajos de java 20 Ejercicios en parejas utilizando el lenguaje javascript
+, implicando clases y objetos con un total de 20 ejercicios
+
+## Comenzando 🚀
+
+- Se crea repositorio.
+- Se sube a git
+- Se realizan cambios en el proyecto
+-Se culimna editando el readme.md
+
+
+
+
+### Pre-requisitos 📋
+
+_Necesitamos del GitBash_
+_Uso del VisualStudioCode_
+
+
+## Ejecutando las pruebas ⚙️
+
+_Se llevo pruebas de cada proyecto de java mediante snipets, una vez concluidas las pruebas se procede a interlasar con html para hacerle presentacion en una pagina_
+
+### Analice las pruebas end-to-end 🔩
+
+_Se validan que los 20 ejercicios propuestos funcionan de forma correcta_
+
+```
+
+```
+
+### Y las pruebas de estilo de codificación ⌨️
+
+_Verificamos el  correcto uso de las clases, objetos  metodos constructores_
+
+```
+
+```
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [VisualStudioCode](https://code.visualstudio.com/) - El software usado
+* [GitBash](https://git-scm.com/downloads) - Manejado para subir proyecto de forma remota
+* [GitLab](https://gitlab.com/) - Usado para subir proyecto
+
+
+
+## Autores ✒️
+
+
+* **Camilo Zuluaga** - *Java Programacion* - 
+* **Camilo Salazar** - *Java Programacion* - 
+* **Claudio Ropain** - *Java Programacion* - 
